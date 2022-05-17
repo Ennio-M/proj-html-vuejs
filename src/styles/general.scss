@@ -8,4 +8,24 @@ $fa-font-path: './webfonts';
 @import '~@fortawesome/fontawesome-free/scss/brands.scss';
 
 //variables
-@import './variables.scss'
+@import './variables.scss';
+
+//reset
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: $main-font;
+    font-size: $main-font-size;
+}
+
+li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
