@@ -1,0 +1,66 @@
+{
+    "navbar": [
+        {
+            "id": 1,
+            "text": "Home",
+            "class": null,
+            "active": true
+        },
+        {
+            "id": 2,
+            "text": "Recipes",
+            "class": null,
+            "active": false
+        },
+        {
+            "id": 3,
+            "text": "Places",
+            "class": null,
+            "active": false
+        },
+        {
+            "id": 4,
+            "text": "Blog",
+            "class": null,
+            "active": false
+        },
+        {
+            "id": 5,
+            "text": "About",
+            "class": null,
+            "active": false
+        },
+        {
+            "id": 6,
+            "text": "Contact",
+            "class": null,
+            "active": false
+        },
+        {
+            "id": 7,
+            "text": null,
+            "class": "fa-solid fa-magnifying-glass",
+            "active": false
+        }
+    ],
+    "socials": [
+        "fa-brands fa-facebook-f",
+        "fa-brands fa-instagram",
+        "fa-brands fa-twitter",
+        "fa-brands fa-youtube"
+    ],
+    "contacts": [
+        {
+            "icon": "fa-solid fa-location-dot",
+            "text": "775 New York Ave, Brooklyn, Kings, New York 11203"
+        },
+        {
+            "icon": "fa-solid fa-phone-flip",
+            "text": "+ 0100-505-0000"
+        },
+        {
+            "icon": "fa-solid fa-envelope",
+            "text": "info@your-domain.com"
+        }
+    ]
+}
