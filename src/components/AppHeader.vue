@@ -1,5 +1,5 @@
 <template>
-    <section>
+    <div>
         <div class="container">
             <div class="mt-2 top-bar">
                 <div class="float-start">
@@ -23,7 +23,7 @@
                 </ul>
             </nav>
         </div>
-    </section>
+    </div>
 </template>
 
 <script>
