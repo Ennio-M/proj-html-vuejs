@@ -3,10 +3,12 @@
         <jumbo-tron/>
         <foodie-journal/>
         <popular-recipes/>
+        <culinary-collection/>
     </main>
 </template>
 
 <script>
+import CulinaryCollection from './CulinaryCollection.vue';
 import FoodieJournal from './FoodieJournal.vue';
 import JumboTron from './JumboTron.vue';
 import PopularRecipes from './PopularRecipes.vue';
@@ -16,7 +18,8 @@ export default {
     components: {
         JumboTron,
         FoodieJournal,
-        PopularRecipes
+        PopularRecipes,
+        CulinaryCollection
     }
 }
 </script>

@@ -23,28 +23,28 @@
                 <div class="col">
                     <div class="row row-cols-2 g-4">
                         <div class="col">
-                            <img src="../assets/imgs/Mixed-fruits-460x295.jpg" alt="" class="w-100">
+                            <img src="../assets/imgs/Mixed-fruits-460x295.jpg" alt="Mixed fruits" class="w-100">
                         </div>
                         <div class="col">
-                            <img src="../assets/imgs/r-rachel-park-366508-unsplash-min-460x295.jpg" alt="" class="w-100">
+                            <img src="../assets/imgs/r-rachel-park-366508-unsplash-min-460x295.jpg" alt="Breakfast" class="w-100">
                         </div>
                         <div class="col">
-                            <img src="../assets/imgs/r-michelle-tsang-500721-unsplash-min-460x295.jpg" alt="" class="w-100">
+                            <img src="../assets/imgs/r-michelle-tsang-500721-unsplash-min-460x295.jpg" alt="Ice cream" class="w-100">
                         </div>
                         <div class="col">
-                            <img src="../assets/imgs/quick-summer-drink-460x295.jpg" alt="" class="w-100">
+                            <img src="../assets/imgs/quick-summer-drink-460x295.jpg" alt="Quick summer drink" class="w-100">
                         </div>
                         <div class="col">
-                            <img src="../assets/imgs/r-maarten-van-den-heuvel-400626-unsplash-min-460x295.jpg" alt="" class="w-100">
+                            <img src="../assets/imgs/r-maarten-van-den-heuvel-400626-unsplash-min-460x295.jpg" alt="Vegetables" class="w-100">
                         </div>
                         <div class="col">
-                            <img src="../assets/imgs/perfect-cosmopolitan-460x295.jpg" alt="" class="w-100">
+                            <img src="../assets/imgs/perfect-cosmopolitan-460x295.jpg" alt="Cosmopolitan" class="w-100">
                         </div>
                         <div class="col">
-                            <img src="../assets/imgs/fi2x-6-460x295.jpg" alt="" class="w-100">
+                            <img src="../assets/imgs/fi2x-6-460x295.jpg" alt="Mixed breakfast" class="w-100">
                         </div>
                         <div class="col">
-                            <img src="../assets/imgs/r-brooke-lark-96398-unsplash-min-460x295.jpg" alt="" class="w-100">
+                            <img src="../assets/imgs/r-brooke-lark-96398-unsplash-min-460x295.jpg" alt="Brooke lark" class="w-100">
                         </div>
                     </div>
                 </div>

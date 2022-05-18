@@ -47,7 +47,7 @@ export default {
                 background-color: $page-theme;
                 padding: 4px 15px;
                 border-radius: 8px;
-                box-shadow: 0 5px 15px $light-font-color;
+                box-shadow: 0 4px 15px $light-font-color;
             }
         }
     }
