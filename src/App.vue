@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <app-header :data="data"/>
-    <app-main/>
+    <app-main :data="data"/>
   </div>
 </template>
 
