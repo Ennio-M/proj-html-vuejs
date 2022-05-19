@@ -9,27 +9,27 @@
             <div class="row row-cols-3 gx-5">
                 <div class="col">
                     <div class="card border-0">
-                        <img src="../assets/imgs/single-post-img3-400x263.jpg" class="card-img-top" alt="Sushi">
+                        <img src="../assets/imgs/single-post-img3-400x263.jpg" class="card-img-top pointer" alt="Sushi">
                         <div class="card-body text-center">
-                            <h4 class="card-text">Food Corner: Top Japanese <br> Restaurants for Sushi</h4>
+                            <h4 class="card-text active_title">Food Corner: Top Japanese <br> Restaurants for Sushi</h4>
                             <p class="card-text">By admin | March, 25th of November</p>
                         </div>
                     </div>
                 </div>
                 <div class="col">
                     <div class="card border-0">
-                        <img src="../assets/imgs/fi-roundup-400x263.jpg" class="card-img-top" alt="Healthy Recipes">
+                        <img src="../assets/imgs/fi-roundup-400x263.jpg" class="card-img-top pointer" alt="Healthy Recipes">
                         <div class="card-body text-center">
-                            <h4 class="card-text">Roundup: My New Favourite <br> Recipes For Healthy Living</h4>
+                            <h4 class="card-text active_title">Roundup: My New Favourite <br> Recipes For Healthy Living</h4>
                             <p class="card-text">By admin | March, 25th of November</p>
                         </div>
                     </div>
                 </div>
                 <div class="col">
                     <div class="card border-0">
-                        <img src="../assets/imgs/fi-toasts-400x263.jpg" class="card-img-top" alt="Toasts with tea">
+                        <img src="../assets/imgs/fi-toasts-400x263.jpg" class="card-img-top pointer" alt="Toasts with tea">
                         <div class="card-body text-center">
-                            <h4 class="card-text">Why These Toasts with Tea are <br> My New Favourite</h4>
+                            <h4 class="card-text active_title">Why These Toasts with Tea are <br> My New Favourite</h4>
                             <p class="card-text">By admin | March, 25th of November</p>
                         </div>
                     </div>

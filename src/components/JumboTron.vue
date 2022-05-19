@@ -1,7 +1,7 @@
 <template>
     <section class="jumbo d-flex justify-content-center align-items-center">
         <div class="jumbo_text">
-            <h1>
+            <h1 class="active_title">
                 Food Corner: Top Japanese <br>
                 Restaurants for Sushi
             </h1>

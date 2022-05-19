@@ -49,3 +49,14 @@ li{
 a{
     text-decoration: none;
 }
+
+.active_title{
+    cursor: pointer;
+    &:hover{
+        color: $page-theme
+    };
+}
+
+.pointer{
+    cursor: pointer;
+}

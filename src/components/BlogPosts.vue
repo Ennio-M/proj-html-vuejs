@@ -20,14 +20,14 @@
                     <div class="row">
                         <div class="col-12 my-4">
                              <div class="card border-0">
-                                <img src="../assets/imgs/single-post-img3-800x527.jpg" class="card-img-top" alt="Yogurt Nan">
+                                <img src="../assets/imgs/single-post-img3-800x527.jpg" class="card-img-top pointer" alt="Yogurt Nan">
                                 <div class="card-body p-5">
-                                    <h4 class="card-title m-0">Food Corner: Top Japaneese Restaurants for Sushi</h4>
+                                    <h4 class="card-title m-0 active_title">Food Corner: Top Japaneese Restaurants for Sushi</h4>
                                     <p>By admin | March, 25th of November</p>
                                     <hr class="my-4">
                                     <p class="card-text lh-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti placeat consequuntur aliquam similique id culpa perspiciatis architecto accusantium consectetur! Sequi aliquid hic enim deleniti aperiam qui. Nobis repudiandae saepe commodi, labore animi distinctio odio?</p>
                                     <div class="float-start">
-                                        <a href="#" class="read_more">Read More &gt;</a>
+                                        <a href="#" class="read_more pointer">Read More &gt;</a>
                                     </div>
                                     <div class="float-end read_more">
                                         <i class="fa-regular fa-comments"></i>
@@ -38,60 +38,60 @@
                         </div>
                         <div class="col-6">
                             <div class="card border-0 my-3">
-                                <img src="../assets/imgs/fi-roundup-400x263.jpg" class="card-img-top" alt="Healthy recipes">
+                                <img src="../assets/imgs/fi-roundup-400x263.jpg" class="card-img-top pointer" alt="Healthy recipes">
                                 <div class="card-body text-center">
-                                    <h4 class="card-text px-3">Roundup: My New Favourite Recipes For Healthy Living</h4>
+                                    <h4 class="card-text px-3 active_title">Roundup: My New Favourite Recipes For Healthy Living</h4>
                                     <p class="card-text">By admin | March, 25th of November</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-6">
                             <div class="card border-0 my-3">
-                                <img src="../assets/imgs/fi-korean-food-400x263.jpg" class="card-img-top" alt="Korean food">
+                                <img src="../assets/imgs/fi-korean-food-400x263.jpg" class="card-img-top pointer" alt="Korean food">
                                 <div class="card-body text-center">
-                                    <h4 class="card-text px-3">Meal Prep: Korean Bibimbap with Kimchi</h4>
+                                    <h4 class="card-text px-3 active_title">Meal Prep: Korean Bibimbap with Kimchi</h4>
                                     <p class="card-text">By admin | March, 25th of November</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-6">
                             <div class="card border-0 my-3">
-                                <img src="../assets/imgs/fi-toasts-400x263.jpg" class="card-img-top" alt="Toasts with tea">
+                                <img src="../assets/imgs/fi-toasts-400x263.jpg" class="card-img-top pointer" alt="Toasts with tea">
                                 <div class="card-body text-center">
-                                    <h4 class="card-text px-3">Why These Toasts with Tea are My New Favourite</h4>
+                                    <h4 class="card-text px-3 active_title">Why These Toasts with Tea are My New Favourite</h4>
                                     <p class="card-text">By admin | March, 25th of November</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-6">
                             <div class="card border-0 my-3">
-                                <img src="../assets/imgs/fi-street-food-400x263.jpg" class="card-img-top" alt="Bangkok street food">
+                                <img src="../assets/imgs/fi-street-food-400x263.jpg" class="card-img-top pointer" alt="Bangkok street food">
                                 <div class="card-body text-center">
-                                    <h4 class="card-text px-3">Exploring Street Food in Bangkok</h4>
+                                    <h4 class="card-text px-3 active_title">Exploring Street Food in Bangkok</h4>
                                     <p class="card-text">By admin | March, 25th of November</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-6">
                             <div class="card border-0 my-3">
-                                <img src="../assets/imgs/fi-organic-breakfast-400x263.jpg" class="card-img-top" alt="Organic recipes">
+                                <img src="../assets/imgs/fi-organic-breakfast-400x263.jpg" class="card-img-top pointer" alt="Organic recipes">
                                 <div class="card-body text-center">
-                                    <h4 class="card-text px-3">Organic Choices For Healthier Living</h4>
+                                    <h4 class="card-text px-3 active_title">Organic Choices For Healthier Living</h4>
                                     <p class="card-text">By admin | March, 25th of November</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-6">
                             <div class="card border-0 my-3">
-                                <img src="../assets/imgs/fi-water-side-rest-400x263.jpg" class="card-img-top" alt="Waterside restaurants">
+                                <img src="../assets/imgs/fi-water-side-rest-400x263.jpg" class="card-img-top pointer" alt="Waterside restaurants">
                                 <div class="card-body text-center">
-                                    <h4 class="card-text px-3">5 Waterside Restaurants for Special Events</h4>
+                                    <h4 class="card-text px-3 active_title">5 Waterside Restaurants for Special Events</h4>
                                     <p class="card-text">By admin | March, 25th of November</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-12">
-                            <div class="more_posts text-center py-2 my-3">
+                            <div class="more_posts text-center py-2 my-3 pointer">
                                 <a href="#" class="text-uppercase smaller">Load more posts</a>
                             </div>
                         </div>
@@ -112,7 +112,7 @@
                                     <img src="../assets/imgs/singapore-featured-image-400x263.jpg" alt="Singapore">
                                     <h4 class="p-2">City Guide: Singapore</h4>
                                 </a>
-                                <div class="view_all text-uppercase text-center py-2">
+                                <div class="view_all text-uppercase text-center py-2 pointer">
                                     <i class="fa-solid fa-earth-americas"></i>
                                     <span>&nbsp; View all city guides</span>
                                 </div>
@@ -128,52 +128,52 @@
                             </div>
                             <div class="follow">
                                 <h6>Follow Us</h6>
-                                <div v-for="(social, index) in data.socials" :key="index" class="text-center rounded-3 my-2">
+                                <div v-for="(social, index) in data.socials" :key="index" class="text-center rounded-3 my-2 pointer">
                                     <i :class="social"></i>
                                 </div>
                             </div>
                         </div>
                         <div class="col-12 my-5">
                             <div class="row popular">
-                                <div class="col-6 text-center pop_rec">
+                                <div class="col-6 text-center pointer">
                                     <h5>Popular</h5>
                                 </div>
-                                <div class="col-6 text-center pop_rec">
+                                <div class="col-6 text-center pointer">
                                     <h5>Recent</h5>
                                 </div>
                                 <div class="col-12">
                                     <ul class="my-5">
                                         <li class="d-flex align-items-center my-4">
-                                            <div class="post_img">
+                                            <div class="post_img pointer">
                                                 <img src="../assets/imgs/single-post-img3-66x66.jpg" alt="Japanese restaurants" class="rounded-circle">
                                             </div>
                                             <div class="post_content">
-                                                <h6>Food Corner: Top Japanese Restaurants for Sushi</h6>
+                                                <h6 class="pointer">Food Corner: Top Japanese Restaurants for Sushi</h6>
                                                 <p>March 25th, 2019</p>
                                             </div>
                                         </li>
                                         <li class="d-flex align-items-center my-4">
-                                            <div class="post_img">
+                                            <div class="post_img pointer">
                                                 <img src="../assets/imgs/singapore-featured-image-66x66.jpg" alt="Singapore" class="rounded-circle">
                                             </div>
                                             <div class="post_content">
-                                                <h6>City Guide: Singapore</h6>
+                                                <h6 class="pointer">City Guide: Singapore</h6>
                                                 <p>February 27th, 2019</p>
                                             </div>
                                         </li>
                                         <li class="d-flex align-items-center my-4">
-                                            <div class="post_img">
+                                            <div class="post_img pointer">
                                                 <img src="../assets/imgs/slide1-bg-66x66.jpg" alt="Nutritional tips" class="rounded-circle">
                                             </div>
                                             <div class="post_content">
-                                                <h6>6 Nutritional Tips to Help Burn Body Fat</h6>
+                                                <h6 class="pointer">6 Nutritional Tips to Help Burn Body Fat</h6>
                                                 <p>February 28th, 2019</p>
                                             </div>
                                         </li>
                                     </ul>
                                 </div>
                                 <div class="col-12">
-                                    <div class="tweet_area p-5 rounded-1">
+                                    <div class="tweet_area p-5 rounded-1 pointer">
                                         <div class="d-flex justify-content-between align-items-center pb-3">
                                             <div class="from">
                                                 <h5 class="d-inline-block">Tweets</h5>
@@ -239,14 +239,12 @@ export default {
     .read_more{
         font-size: .7em;
         color: $secondary-font-color;
-        cursor: pointer;
         &:hover{
             color: $page-theme;
         }
     }
     .more_posts{
         background-color: $darker-bg-color;
-        cursor: pointer;
         &:hover{
             background-color: $main-font-color;
         }
@@ -283,7 +281,6 @@ export default {
     .view_all{
         color: $white-font;
         background-color: $page-theme;
-        cursor: pointer;
         &:hover{
             color: $white-font;
         }
@@ -313,7 +310,6 @@ export default {
             margin-right: .8em;
             border: 1px solid $light-font-color;
             display: inline-block;
-            cursor: pointer;
         }
     }
     .popular{
@@ -322,11 +318,9 @@ export default {
         }
         .pop_rec{
             height: 40px;
-            cursor: pointer;
         }
     }
     .post_img{
-        cursor: pointer;
     }
     .post_content{
         padding-left: 10px;
@@ -335,12 +329,10 @@ export default {
         }
         h6:hover{
             color: $page-theme;
-            cursor: pointer;
         }
     }
     .tweet_area{
         background-color: $white-font;
-        cursor: pointer;
         &:hover{
             background-color: $twitter_hover;
         }
