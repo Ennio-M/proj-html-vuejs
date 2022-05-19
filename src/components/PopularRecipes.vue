@@ -10,13 +10,13 @@
             <div class="row row-cols-2 gx-5">
                 <div class="col">
                     <div class="card border-0">
-                        <img src="../assets/imgs/Yogurt-Nan-400x263.jpg" class="card-img-top" alt="Yogurt Nan">
+                        <img src="../assets/imgs/Yogurt-Nan-800x527.jpg" class="card-img-top" alt="Yogurt Nan">
                         <div class="card-body p-5">
                             <h4 class="card-title m-0">Lunch Favourite with Salad, Naan And Beans</h4>
                             <p class="smaller">Bakery, Featured, Healthy, Latest Recipes, Staff Picks</p>
                             <hr class="my-4">
-                            <p class="card-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi molestiae vel asperiores placeat unde sed possimus? Deserunt nesciunt id minus repellat rerum accusamus quia eligendi vitae pariatur delectus. Explicabo voluptatibus quo vel in consequuntur dolorem soluta, repellendus placeat repellat rem eveniet, maxime accusantium deleniti est velit vero mollitia voluptate exercitationem voluptatem tempore, animi blanditiis veniam! Quasi quod repellat optio. Tempore magni et animi dolor necessitatibus dignissimos aperiam, atque minus suscipit?</p>
-                            <a href="#" class="text-white text-uppercase py-2 px-4 learn">Learn more</a>
+                            <p class="card-text lh-lg">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla temporibus at aut eius quisquam! Adipisci amet voluptatibus, dolorum suscipit tenetur nisi dicta id quae in numquam temporibus fuga sed accusantium, veniam eius itaque ad molestias? Quasi voluptatem quisquam laborum velit est incidunt, recusandae at nisi commodi quis quae laudantium quo dolor unde tempora id reiciendis obcaecati rem officia nesciunt natus alias. Velit laudantium id minus? Quidem eligendi totam quam. Repudiandae.</p>
+                            <a href="#" class="text-white text-uppercase py-3 px-4 learn">Learn more</a>
                         </div>
                     </div>
                 </div>
@@ -63,7 +63,7 @@ export default {
 @import '../styles/variables.scss';
 
     h3, h4{
-        color: $main-font;
+        color: $main-font-color;
     }
     p{
         color: $secondary-font-color;

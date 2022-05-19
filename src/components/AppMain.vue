@@ -4,10 +4,12 @@
         <foodie-journal/>
         <popular-recipes/>
         <culinary-collection/>
+        <blog-posts :data="data"/>
     </main>
 </template>
 
 <script>
+import BlogPosts from './BlogPosts.vue';
 import CulinaryCollection from './CulinaryCollection.vue';
 import FoodieJournal from './FoodieJournal.vue';
 import JumboTron from './JumboTron.vue';
@@ -19,7 +21,11 @@ export default {
         JumboTron,
         FoodieJournal,
         PopularRecipes,
-        CulinaryCollection
+        CulinaryCollection,
+        BlogPosts
+    },
+    props: {
+        data: Object
     }
 }
 </script>

@@ -5,7 +5,7 @@
             <div class="row row-cols-3 gx-5">
                 <div class="col">
                     <div class="card border-0">
-                    <img src="../assets/imgs/single-post-img3-200x132.jpg" class="card-img-top" alt="Sushi">
+                    <img src="../assets/imgs/single-post-img3-400x263.jpg" class="card-img-top" alt="Sushi">
                     <div class="card-body text-center">
                         <h4 class="card-text">Food Corner: Top Japanese <br> Restaurants for Sushi</h4>
                         <p class="card-text">By admin | March, 25th of November</p>
@@ -14,7 +14,7 @@
                 </div>
                 <div class="col">
                     <div class="card border-0">
-                    <img src="../assets/imgs/fi-roundup-200x132.jpg" class="card-img-top" alt="Healthy Recipes">
+                    <img src="../assets/imgs/fi-roundup-400x263.jpg" class="card-img-top" alt="Healthy Recipes">
                     <div class="card-body text-center">
                         <h4 class="card-text">Roundup: My New Favourite <br> Recipes For Healthy Living</h4>
                         <p class="card-text">By admin | March, 25th of November</p>
@@ -23,7 +23,7 @@
                 </div>
                 <div class="col">
                     <div class="card border-0">
-                    <img src="../assets/imgs/fi-toasts-200x132.jpg" class="card-img-top" alt="Toasts with tea">
+                    <img src="../assets/imgs/fi-toasts-400x263.jpg" class="card-img-top" alt="Toasts with tea">
                     <div class="card-body text-center">
                         <h4 class="card-text">Why These Toasts with Tea are <br> My New Favourite</h4>
                         <p class="card-text">By admin | March, 25th of November</p>
@@ -47,7 +47,7 @@ export default {
 
     .journal{
         background-color: $white-font;
-        transform: translate(0, -10%);
+        transform: translate(0, -15%);
         h3{
             font-size: 1.2em;
             padding-bottom: 15px;
