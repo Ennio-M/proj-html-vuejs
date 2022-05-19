@@ -5,6 +5,7 @@
         <popular-recipes/>
         <culinary-collection/>
         <blog-posts :data="data"/>
+        <subscribe-sec/>
     </main>
 </template>
 
@@ -14,6 +15,7 @@ import CulinaryCollection from './CulinaryCollection.vue';
 import FoodieJournal from './FoodieJournal.vue';
 import JumboTron from './JumboTron.vue';
 import PopularRecipes from './PopularRecipes.vue';
+import SubscribeSec from './SubscribeSec.vue';
 
 export default {
     name: "AppVue",
@@ -22,7 +24,8 @@ export default {
         FoodieJournal,
         PopularRecipes,
         CulinaryCollection,
-        BlogPosts
+        BlogPosts,
+        SubscribeSec
     },
     props: {
         data: Object
