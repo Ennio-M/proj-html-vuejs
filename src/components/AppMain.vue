@@ -6,6 +6,7 @@
         <culinary-collection/>
         <blog-posts :data="data"/>
         <subscribe-sec/>
+        <images-sec/>
     </main>
 </template>
 
@@ -13,6 +14,7 @@
 import BlogPosts from './BlogPosts.vue';
 import CulinaryCollection from './CulinaryCollection.vue';
 import FoodieJournal from './FoodieJournal.vue';
+import ImagesSec from './ImagesSec.vue';
 import JumboTron from './JumboTron.vue';
 import PopularRecipes from './PopularRecipes.vue';
 import SubscribeSec from './SubscribeSec.vue';
@@ -25,7 +27,8 @@ export default {
         PopularRecipes,
         CulinaryCollection,
         BlogPosts,
-        SubscribeSec
+        SubscribeSec,
+        ImagesSec
     },
     props: {
         data: Object
