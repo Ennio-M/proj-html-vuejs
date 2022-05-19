@@ -73,11 +73,7 @@ export default {
     section{
         padding-top: 2em;
     }
-    h3, h4, h6{
-        color: $main-font-color;
-    }
     p{
-        color: $secondary-font-color;
         font-size: .8em;
     }
     .box{

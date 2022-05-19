@@ -28,9 +28,6 @@ export default {
         background-position: center;
         background-size: cover;
     }
-    h1{
-        color: $main-font-color;
-    }
     .subscribe_text{
         span{
             color: $page-theme;

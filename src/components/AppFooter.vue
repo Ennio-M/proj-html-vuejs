@@ -19,17 +19,9 @@
                     <div class="col px-4 myborder">
                         <h5>Contact</h5>
                         <ul class="p-0">
-                            <li class="d-flex">
-                                <i class="fa-solid fa-location-dot"></i>
-                                <p class="ms-3">775 New York Ave, <br> Brooklyn, Kings, New York 11203</p>
-                            </li>
-                            <li class="d-flex">
-                                <i class="fa-solid fa-phone-flip"></i>
-                                <p class="ms-3">+ 0100-505-0000</p>
-                            </li>
-                            <li class="d-flex">
-                                <i class="fa-solid fa-envelope"></i>
-                                <p class="ms-3">info@your-domain.com</p>
+                            <li class="d-flex" v-for="(contact, index) in data.contacts" :key="index">
+                                <i :class="contact.icon"></i>
+                                <p class="ms-3">{{contact.text}}</p>
                             </li>
                         </ul>
                     </div>

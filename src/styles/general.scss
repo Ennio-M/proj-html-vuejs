@@ -8,6 +8,9 @@ $fa-font-path: './webfonts';
 @import '~@fortawesome/fontawesome-free/scss/regular.scss';
 @import '~@fortawesome/fontawesome-free/scss/brands.scss';
 
+//font
+@import url('https://fonts.googleapis.com/css2?family=Vidaloka&display=swap');
+
 //variables
 @import './variables.scss';
 
@@ -19,8 +22,24 @@ $fa-font-path: './webfonts';
 }
 
 body{
-    font-family: $main-font;
     font-size: $main-font-size;
+}
+
+h1, h2, h3, h4{
+    font-family: $main-font;
+}
+h1, h2, h3, h4, h5, h6{
+    color: $main-font-color;
+}
+
+p{
+    font-family: $secondary-font;
+    color: $secondary-font-color;
+    font-size: .8em;
+}
+
+.smaller{
+    font-size: .7em;
 }
 
 li{

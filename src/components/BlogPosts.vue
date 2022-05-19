@@ -114,7 +114,7 @@
                                 </a>
                                 <div class="view_all text-uppercase text-center py-2">
                                     <i class="fa-solid fa-earth-americas"></i>
-                                    <span>View all city guides</span>
+                                    <span>&nbsp; View all city guides</span>
                                 </div>
                             </div>
                             <hr class="my-5">
@@ -232,14 +232,6 @@ export default {
 
 <style lang="scss">
     @import '../styles/variables.scss';
-
-    h3, h4, h6{
-        color: $main-font-color;
-    }
-    p{
-        color: $secondary-font-color;
-        font-size: .8em;
-    }
     .read_button{
         font-size: .8em;
         background-color: $page-theme;

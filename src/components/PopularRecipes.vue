@@ -60,17 +60,10 @@ export default {
 </script>
 
 <style lang="scss">
-@import '../styles/variables.scss';
+    @import '../styles/variables.scss';
 
-    h3, h4{
-        color: $main-font-color;
-    }
     p{
-        color: $secondary-font-color;
         font-size: .8em;
-    }
-    .smaller{
-        font-size: .7em;
     }
     hr{
         color: $secondary-font-color;
