@@ -1,7 +1,7 @@
 <template>
     <header>
         <div class="container">
-            <div class="mt-2 top-bar">
+            <div class="pt-2 top-bar">
                 <div class="float-start">
                     <span>Download App</span>
                     <span class="ios mx-2">iOS</span>
@@ -15,7 +15,7 @@
                 <img src="../assets/imgs/avada-food-logo.png" alt="Logo Avada Food">
             </div>
             <nav>
-                <ul class="d-flex justify-content-center p-0">
+                <ul class="d-flex justify-content-center pb-3 m-0">
                     <li v-for="item in data.navbar" :key="item.id">
                         <a href="#" :class="item.active ? 'active' : ''" v-if="item.text != null">{{item.text}}</a>
                         <a href="" v-else><i :class="item.class"></i></a>
@@ -37,6 +37,9 @@ export default {
 
 <style lang="scss">
     @import '../styles/variables.scss';
+    header{
+        background-color: $darker-bg-color;
+    }
     .top-bar{
         font-size: .7em;
         color: $light-font-color;

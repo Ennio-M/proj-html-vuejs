@@ -75,6 +75,9 @@ export default {
             color: $page-theme;
             margin-bottom: 1.5em;
         }
+        img{
+            cursor: pointer;
+        }
         .myborder{
             border-right: 1px dashed $light-font-color;
         }

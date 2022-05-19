@@ -7,10 +7,12 @@
         <blog-posts :data="data"/>
         <subscribe-sec/>
         <images-sec/>
+        <app-fixed/>
     </main>
 </template>
 
 <script>
+import AppFixed from './AppFixed.vue';
 import BlogPosts from './BlogPosts.vue';
 import CulinaryCollection from './CulinaryCollection.vue';
 import FoodieJournal from './FoodieJournal.vue';
@@ -28,7 +30,8 @@ export default {
         CulinaryCollection,
         BlogPosts,
         SubscribeSec,
-        ImagesSec
+        ImagesSec,
+        AppFixed
     },
     props: {
         data: Object
